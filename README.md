@@ -1,2 +1,7 @@
 # Script-for-Summit
 Scripts that I developed at my role
+# ACCUM IN 
+when we are laoding data into our system this is a script I have deleoped to rename the files and combine the data together.
+I have different ones from differnt providers/vendors because they all have different naming conventions.
+After the scrpit is done running it would generate MM31x.txt file (MM=current month) I would manually change that for the current date.
+Also I would have to adjust the file for the current month.
